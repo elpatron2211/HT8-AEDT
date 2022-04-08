@@ -1,10 +1,10 @@
-Mepica Lanalga, SIDA, B
-Medejo Solo, Infarto, A
-Roquet League, Escupelo, C
-Susanita Avila, Embarazo,E
-Benigno Fuentes, Colapso, A
-Perreo intenso, Sobredosis, B
-Ellano Mequiere, Convulsion, A
-Pepito Tontito, Fractura, B
-Azul Morales, Golpes, D
-Porque Tefuiste, Asma, C
+Mepica Lanalga,SIDA,B
+Medejo Solo,Infarto,A
+Roquet League,Escupelo,C
+Susanita Avila,Embarazo,E
+Benigno Fuentes,Colapso,A
+Perreo intenso,Sobredosis,B
+Ellano Mequiere,Convulsion,A
+Pepito Tontito,Fractura,B
+Azul Morales,Golpes,D
+Porque Tefuiste,Asma,C
