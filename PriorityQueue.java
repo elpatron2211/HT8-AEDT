@@ -1,3 +1,11 @@
+/**
+ * PriorityQueue
+ * Objetivo: Interfaz de funciones
+ * 
+ * @author Pedro Marroquin 
+ * @author Paulo Sanchez
+ * @version 1.0 finalizado 8/02/2022
+ */
 public interface PriorityQueue<E extends Comparable<E>> {
     /**
      *@return the minimum value in priority queue

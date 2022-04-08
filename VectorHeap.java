@@ -1,3 +1,11 @@
+/**
+ * VectorHeap
+ * Objetivo: Implementacion Vector Heap de priority queue
+ * 
+ * @author Pedro Marroquin 
+ * @author Paulo Sanchez
+ * @version 1.0 finalizado 8/04/2022
+ */
 import java.util.Vector;
 
 public class VectorHeap<E extends Comparable<E>> implements PriorityQueue<E>

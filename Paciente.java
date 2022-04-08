@@ -1,3 +1,11 @@
+/**
+ * Paciente
+ * Objetivo: Generar caracteristicas de paciente
+ * 
+ * @author Pedro Marroquin 
+ * @author Paulo Sanchez
+ * @version 1.0 finalizado 8/04/2022
+ */
 public class Paciente implements Comparable<Paciente>{
     private String nombre;
     private String sintoma_desc;

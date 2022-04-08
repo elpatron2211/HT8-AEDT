@@ -1,3 +1,11 @@
+/**
+ * Main
+ * Objetivo: Intermediar funciones 
+ * 
+ * @author Pedro Marroquin 
+ * @author Paulo Sanchez
+ * @version 1.0 finalizado 8/04/2022
+ */
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
